@@ -1,6 +1,6 @@
-# Challenge_1
+# Challenge_1_Node_js
 
-This template should help get you started developing with Vue 3 in Vite.
+Le challenge consiste à reproduire un template figma https://www.figma.com/design/YfVBBZG46WXQGzZ1tKZu3j/Crud-Operations-(Community)?node-id=0-1&t=AlCVCOD8wvJLbu6y-0 et le but précis c'est de faire un backend en node js pour  gérer l'authentification des utilisateurs.
 
 ## Recommended IDE Setup
 
