@@ -1,9 +1,10 @@
 <script setup>
-import ConnexionComp from '../components/ConnexionComponent.vue'
+import SidebarComponent from '@/components/sidebarComponent.vue';
+// import ConnexionComp from '../components/ConnexionComponent.vue';
 </script>
 
 <template>
   <main>
-    <ConnexionComp />
+    <SidebarComponent/>
   </main>
 </template>

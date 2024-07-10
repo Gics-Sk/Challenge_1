@@ -73,11 +73,12 @@ const toogle=()=>{
 
 </script>
 <style scoped>
+
 .card {
     width: 475px;
     height: auto;
     background-color: #fff;
-    margin: 2rem auto;
+    margin:5rem auto;
     border-radius: 0.5rem;
 padding: 2rem;
 }
